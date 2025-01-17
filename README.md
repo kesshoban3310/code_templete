@@ -1,2 +1,9 @@
-# code_templete
-Templete code for competitive programming
+# Code_Templete
+
+彙整了一些我打比賽會用的模板  
+由於小弟不是高手所以只能放一些簡單的東西
+
+
+# 施工區
+
+想到啥就放啥。
